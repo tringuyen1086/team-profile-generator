@@ -28,7 +28,7 @@ node index.js
 
 * [x] ![Passing Jest Tests](./assets/team-profile-generator-passing-test.png)
 
-* [x] ![Video Demo Passing Jest Tests](https://vimeo.com/661735607/c1ca338c0d)
+* [x] [Video Demo Passing Jest Tests](https://vimeo.com/661735607/c1ca338c0d)
 
 ### Built With
 
