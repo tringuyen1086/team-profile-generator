@@ -24,11 +24,11 @@ node index.js
 
 * [x] ![Team Page Created](./assets/team-profile-generator-demo.png)
 
-* [x] Large file, so see here: [Video Demo of Page Generation](https://vimeo.com/661732314/8d99524285) or reference in teh assets file
+* [x] Large file, so see here: [Video Demo of Page Generation](https://vimeo.com/661732314/8d99524285) or reference in the assets file
 
 * [x] ![Passing Jest Tests](./assets/team-profile-generator-passing-test.png)
 
-* [x] [Video Demo Passing Jest Tests](https://vimeo.com/661735607/c1ca338c0d)
+* [x] see here: [Video Demo Passing Jest Tests](https://vimeo.com/661735607/c1ca338c0d) or reference in the assets file
 
 ### Built With
 
