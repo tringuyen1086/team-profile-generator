@@ -26,9 +26,17 @@ node index.js
 
 * [x] Large file, so see here: [Video Demo of Page Generation](https://vimeo.com/661732314/8d99524285) or reference in teh assets file
 
+https://user-images.githubusercontent.com/71200950/147879479-156cc2e6-79ba-4e2e-9253-b169219bcc89.mp4
+
+
+
 * [x] ![Passing Jest Tests](./assets/team-profile-generator-passing-test.png)
 
 * [x] ![Video Demo Passing Jest Tests](https://vimeo.com/661735607/c1ca338c0d)
+
+https://user-images.githubusercontent.com/71200950/147879492-96058b6d-23ce-4f72-846a-aa58e550081e.mp4
+
+
 
 ### Built With
 
